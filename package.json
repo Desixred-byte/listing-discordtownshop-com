@@ -1,0 +1,19 @@
+{
+  "name": "listing-discordtownshop-com",
+  "version": "1.0.0",
+  "description": "Official api for posting stats to listing.discordtownshop.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Desixred-byte/listing-discordtownshop-com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Desixred-byte/listing-discordtownshop-com/issues"
+  },
+  "homepage": "https://github.com/Desixred-byte/listing-discordtownshop-com#readme"
+}
